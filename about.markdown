@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About This Project
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This project explores the connection between San Francisco’s nightlife and crime patterns, with a focus on how certain offenses increase during weekends and late-night hours. Using publicly available SF Crime Data from 2014–2024, we examine time-based and location-based trends to better understand where and when specific crimes occur.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The story is told through three main visualizations:
 
+- A weekday distribution chart of key crime types.
+- A pair of interactive maps showing hotspots for drunkenness and DUI incidents.
+- An hourly pattern chart using interactive Bokeh visualization.
 
-[jekyll-organization]: https://github.com/jekyll
+The goal of this project is to make data accessible to a general audience and provide insights that could support better urban planning and community safety initiatives.
+
+This website is part of a class assignment for an Interactive Data Visualization course.
